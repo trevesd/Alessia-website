@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alessia — Applied AI Product Studio & Advisory</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        header { text-align: center; padding: 20px 0; border-bottom: 1px solid #ddd; }
+        h1 { font-size: 2em; }
+        h2 { font-size: 1.5em; margin-top: 40px; }
+        ul { list-style-type: disc; padding-left: 20px; }
+        footer { text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.9em; color: #777; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Alessia — Applied AI Product Studio & Advisory</h1>
+        <p>AI Product & Business Leader | Building Practical Solutions That Solve Real Problems | Board Member & Advisor</p>
+    </header>
+
+    <section>
+        <h2>About Alessia</h2>
+        <p>Over the past couple of decades, I've worked with strong teams to build products that make a genuine difference for users—practical solutions that endure.</p>
+        <p>Today, I'm focused on the intersection of advancing AI capabilities and real customer needs. It's about shifting from "What can AI do?" to "What's truly worth pursuing?" I engage with large language models, generative AI, and agentic systems to identify high-value applications that deliver tangible results, offering guidance where it fits.</p>
+    </section>
+
+    <section>
+        <h2>Our Focus: Building AI Products That People Truly Need</h2>
+        <p>Created a modular agentic system of domain-specific experts and coaches, each with custom knowledge bases and blueprints for tone governance, context recall, behavioral protocols, and memory logic. It balances custom GPT predictability (reducing hallucinations for reliable outputs) with bottom-up architecture unlocking LLM agentic potential through flexibility and rapid refinements.</p>
+        <p>This powers end-user applications including:</p>
+        <ul>
+            <li>A medical research assistant accelerating evidence synthesis.</li>
+            <li>An evidence-based skincare advisor personalizing routines with science-backed insights.</li>
+            <li>A personalized editor/writer adapting tone and style to evolving contexts.</li>
+            <li>A career coach for tailored guidance.</li>
+            <li>'Applied AI for Product Leaders'—a curriculum empowering PMs to navigate AI landscapes and build skills.</li>
+        </ul>
+        <p>In advising on applied AI, I help companies cut through hype. AI's exponential growth has drowned the original goal: solving real problems. I guide focus not just on tech possibilities, but on creating measurable leverage—products people actually use and value.</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Let's connect if you're exploring AI challenges or opportunities. Reach me via LinkedIn or email: [your-email@example.com].</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Alessia. All rights reserved.</p>
+    </footer>
+</body>
+</html>
